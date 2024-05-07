@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @NishantNN
-- 👀 I’m interested in Website development
-- 🌱 I’m currently learning html and c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nishantapoudel155@gmail.com
+- 👋 Hi, I’m Nishanta Poudel.
+- 👀 I’m interested in Web development.
+- 🌱 I'm quite fluent on html, css and JavaScript.
+- 📫 How to reach me nishantapoudel.com.np.
 
 <!---
 NishantNN/NishantNN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
