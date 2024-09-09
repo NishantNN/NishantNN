@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishanta Poudel.
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Web development, AI and ML.
 - 🌱 I'm quite fluent on html, css and JavaScript.
 - 📫 How to reach me nishantapoudel.com.np.
 
