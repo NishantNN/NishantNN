@@ -1,1 +1,1 @@
-Hey, I'm another random dude with a few computer skills trying to make a difference. 
+Hey,Nishanta Poudel here, a big fan of solving problems that I create for myself.
